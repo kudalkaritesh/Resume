@@ -83,16 +83,16 @@ hr {
   width: 25%;
   height: 40%;
   position: absolute;
-  right: 20%;
-  top: 75px;
+  right: 10%;
+  top: 25px;
 }
 
 .bottom-cloud {
   width: 20%;
   height: 30%;
   position: absolute;
-  left: 20%;
-  bottom: 300px;
+  left: 15%;
+  bottom: 150px;
   margin-bottom: 20px;
 }
 
