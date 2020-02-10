@@ -80,12 +80,16 @@ hr {
 }
 
 .top-cloud {
+  width: 25%;
+  height: 40%;
   position: absolute;
   right: 20%;
   top: 75px;
 }
 
 .bottom-cloud {
+  width: 20%;
+  height: 30%;
   position: absolute;
   left: 20%;
   bottom: 300px;
