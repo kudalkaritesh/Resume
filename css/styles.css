@@ -83,7 +83,7 @@ hr {
   width: 25%;
   height: auto;
   position: absolute;
-  right: 10%;
+  right: 5%;
   top: 25px;
 }
 
@@ -91,7 +91,7 @@ hr {
   width: 25%;
   height: auto;
   position: absolute;
-  left: 10%;
+  left: 5%;
   bottom: 100px;
   margin-bottom: 25px;
 }
