@@ -88,10 +88,10 @@ hr {
 }
 
 .bottom-cloud {
-  width: 20%;
-  height: 30%;
+  width: 25rem;
+  height: 25rem;
   position: absolute;
-  left: 15%;
+  left: 10%;
   bottom: 150px;
   margin-bottom: 20px;
 }
@@ -150,7 +150,9 @@ hr {
   color: #eaf8f8;
 }
 /*********** id Selector ************/
-=======
+
+
+
 /********* Tag Selector ********/
 body {
   margin: 0;
@@ -241,8 +243,8 @@ hr {
 }
 
 .bottom-cloud {
-  width: 20%;
-  height: 30%;
+  width: 25%;
+  height: 40%;
   position: absolute;
   left: 15%;
   bottom: 150px;
