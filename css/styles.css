@@ -118,17 +118,17 @@ hr {
   width: 25%;
 }
 
-.android {
+.web {
   float: left;
   margin-right: 30px;
 }
 
-.ios {
+.android {
   float: right;
   margin-left: 30px;
 }
 
-.web {
+.ios {
   float: left;
   margin-right: 30px;
 }
