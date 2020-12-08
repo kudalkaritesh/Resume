@@ -147,8 +147,12 @@ hr {
   background: #46b7b9;
 }
 
-.twitter {
-  margin: 0 50px 0 50px;
+.footer-link-left {
+  margin: 0 25px 0 50px;
+}
+
+.footer-link-right {
+  margin: 0 50px 0 25px;
 }
 
 .copyright {
